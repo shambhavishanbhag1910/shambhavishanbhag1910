@@ -94,9 +94,6 @@ AI-assisted supplier compliance and risk assessment system combining **document 
 ## 🗄️ Databases & Vector / Graph Systems
 
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/NEO4J-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/ELASTICSEARCH-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
@@ -104,12 +101,10 @@ AI-assisted supplier compliance and risk assessment system combining **document 
 
 ## 🏗️ Data Engineering
 
-![Apache Spark](https://img.shields.io/badge/APACHE_SPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/APACHE_AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/SNOWFLAKE-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ---
 
